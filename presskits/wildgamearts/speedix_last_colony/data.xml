@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Speedix : Last Colony</title>
+	<release-date>1 Dec, 2016</release-date>
+	<website>http://wildgamearts.com/speedixlastcolony/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Android Google Play</name>
+			<link>http://wildgamearts.com/speedixlastcolony/</link>
+		</platform>
+		<platform>
+			<name>Steam</name>
+			<link>http://wildgamearts.com/speedixlastcolony/</link>
+		</platform>
+		<platform>
+			<name>Apple App Store</name>
+			<link>http://wildgamearts.com/speedixlastcolony/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>Free</value>
+		</price>
+	</prices>
+
+	<description>
+	Speedix : Last Colony : A glorious space game where players fight for resources across a seamless , procedurally generated solar system ! 
+	</description>
+	
+	<history>
+Speedix : Last Colony is a vast multiplayer space game allows hundreds of players to build alliances and corporations fighting for control over the solar system filled with planets, moons, asteroid belts, and other celestial phenomenon. having a smooth transition between systems and the ability to land and fight on planets will bring combat from deep space to the surface of alien worlds. your choices will affect the game play experience outcome you will be able to to destroy your enemies and their infrastructure through orbital bombardment attacks from capital ships supported by an array of smaller spacecraft . 
+	</history>
+
+	<features>
+		<feature>The Game expand infinitely that's why we are providing a centralized solar control panel allowing the players to create / design new systems</feature>
+		<feature>Players are able to spawn and manage planets , stars and black holes </feature>
+		<feature>You will be able to contribute to the game with AI (Basic scripts for AI are provided but you can make your own ) to create a unique game-play experience</feature>
+		<feature>Players can trade any type of resource ships , factories , planets , solar systems , even AI Scripts </feature>
+		<feature>you will have the opportunity to build your own infrastructure build new space stations , planetary bases , factories , based on your station size you will be able to spawn small to medium spacecrafts , where larger space stations can spawn refuel capital ships .</feature>
+	</features>
+
+
+	<credits>
+		<credit>
+			<person>Huthaifa A. Ahmed</person>
+			<role>Founder , Artist, Freelance Developer</role>
+		</credit>
+		<credit>
+			<person>Ibrahem A. Ahmed</person>
+			<role>Artist, Freelance Developer</role>
+		</credit>
+		<credit>
+			<person>Bilal A. Ahmed</person>
+			<role>Social media, Marketing Specialist</role>
+		</credit>
+		
+	</credits>
+</game>

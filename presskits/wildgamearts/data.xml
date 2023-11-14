@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Wild Game Arts Studio</title>
+	<founding-date>February 1, 2015</founding-date>
+	<website>http://wildgamearts.com</website>
+	<based-in>Baghdad, Iraq</based-in>
+	
+	<press-contact>info@wildgamearts.com</press-contact>
+	<phone>+00 (964) 75 06 16 85 04</phone>
+	<address>
+		<line>Iraq - Baghdad - Kazalia</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>Twitter</name>
+			<link>https://twitter.com/wildgamearts</link>
+		</social>
+		<social>
+			<name>Facebook</name>
+			<link>https://www.facebook.com/Wild-Game-Arts-1117663544920166</link>
+		</social>
+		<social>
+			<name>Google Plus</name>
+			<link>https://plus.google.com/+Wildgamearts</link>
+		</social>
+		<social>
+			<name>LinkedIn</name>
+			<link>https://www.linkedin.com/company/wild-game-arts</link>
+		</social>
+	</socials>
+	
+	<description>
+Wild Game Arts is an Independent game studio located in Baghdad, Iraq.
+	</description>
+		
+	<histories>
+		<history>
+			<header>About</header>
+			<text>Founded in 1st of Feb 2015 Wild Game Arts is an independent game studio located in Baghdad iraq  ,
+
+We believe in creating amazing games filled with fun,  developing 2 main projects speedix : last colony and lumberjack in space these titles  will be distributed on various platforms such as PC, Mac, Wii, iPad, iPhone and Android.
+
+ 
+
+Wild Game Arts  was founded by huthaifa abd a passionate software engineer and his realization of a lifelong dream to run a development studio that genuinely respects developers and consumers. we  are proud to be active members of the worldwide independent game development industry.
+
+Being a passionate indie game studio, we always challenge ourselves to make  games with new mechanics, polished aesthetic and amazing gameplay.</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<!--<trailer>
+			<name>This video is nice</name>
+			<youtube>7jQbITg0MSk</youtube>
+		</trailer>
+		<trailer>
+			<name>This one too</name>
+			<youtube>0CevOaYrYDA</youtube>
+			<vimeo>12536488</vimeo>
+		</trailer>-->
+	</trailers>
+	
+	<awards>
+		<!--<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>-->
+	</awards>
+	
+	<quotes>
+		<!--<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>-->
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>Wild Game Arts Indie Studio</title>
+			<description>Wild Game Arts is an Independent game studio located in Baghdad, Iraq.</description>
+			<link>http://wildgamearts.com</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Huthaifa A. Ahmed</person>
+			<role>Founder , Artist, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Ibrahem A. Ahmed</person>
+			<role>Artist, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Bilal A. Ahmed</person>
+			<role>Social media, Marketing Specialist</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>info@wildgamearts.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>https://twitter.com/wildgamearts</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>https://www.facebook.com/Wild-Game-Arts-1117663544920166</link>
+		</contact>
+		<contact>
+			<name>Google Plus</name>
+			<link>https://plus.google.com/+Wildgamearts</link>
+		</contact>
+		<contact>
+			<name>LinkedIn</name>
+			<link>https://www.linkedin.com/company/wild-game-arts</link>
+		</contact>
+
+		<contact>
+			<name>Web</name>
+			<link>http://wildgamearts.com</link>
+		</contact>
+	</contacts>
+	
+	<analytics>UA-74615939-1</analytics>
+</game>

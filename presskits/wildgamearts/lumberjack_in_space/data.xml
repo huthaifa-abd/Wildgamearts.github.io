@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Lumberjack in space</title>
+	<release-date>1 Nov, 2016</release-date>
+	<website>http://wildgamearts.com/lumberjackinspace/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Android Google Play</name>
+			<link>http://wildgamearts.com/lumberjackinspace/</link>
+		</platform>
+		<platform>
+			<name>Steam</name>
+			<link>http://wildgamearts.com/lumberjackinspace/</link>
+		</platform>
+		<platform>
+			<name>Apple App Store</name>
+			<link>http://wildgamearts.com/lumberjackinspace/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>Free</value>
+		</price>
+	</prices>
+
+	<description>
+	Lumberjack in space : A Colorful game set in the magic world of green land where the place is filled with wonderful trees . 
+	</description>
+	
+	<history>
+Lumberjack in space : is an addictive adventure game . starring a lumberjack and his dog spok living in a small wood house , one day the wake up in the morning to find out that all the trees are gone , they were taken by aliens and that's when our journey begins its your turn to go into space and bring all the trees home safe and sound (the irony is that you will cut them later for fire ) , your goal is to gather trees fight aliens and save the world ! 
+	</history>
+
+	<features>
+		<feature>Fight aliens save planets solve puzzles and make new friends .</feature>
+		<feature>The game is split into 3 worlds and 12 planets where the lumberjack travels to bring back the trees.</feature>
+		<feature>When the player arrives at a new planet he has a limited time to get all the trees before the aliens is alert </feature>
+		<feature>The game features multiple quests and missions for each planet you visit .</feature>
+		<feature>Your goal is to gather trees fight aliens and save the world ! </feature>
+	</features>
+
+
+	<credits>
+		<credit>
+			<person>Huthaifa A. Ahmed</person>
+			<role>Founder , Artist, Freelance Developer</role>
+		</credit>
+		<credit>
+			<person>Ibrahem A. Ahmed</person>
+			<role>Artist, Freelance Developer</role>
+		</credit>
+		<credit>
+			<person>Bilal A. Ahmed</person>
+			<role>Social media, Marketing Specialist</role>
+		</credit>
+		
+	</credits>
+</game>
